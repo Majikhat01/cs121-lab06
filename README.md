@@ -14,7 +14,7 @@ Design and implement an application that reads an arbitrary number of integers t
 
 ## Activity 2 - NumberStats (pp7.3)
 ### Problem Description
-Design and implement an application that creates a histogram that allows you to visually inspect the frequency distribution of a set of values. The program should read in an arbitrary number of integers that are in the range of 1 to 100 inclusive; then it should produce a chart similar to the following on that indicates how many input values fell in teh range 1 to 10, 11 to 20, and so on. Print one asterisk for each value entered.
+Design and implement an application that creates a histogram that allows you to visually inspect the frequency distribution of a set of values. The program should read in an arbitrary number of integers that are in the range of 1 to 100 inclusive; then it should produce a chart similar to the following on that indicates how many input values fell in the range 1 to 10, 11 to 20, and so on. Print one asterisk for each value entered.
 
      1 - 10   | *****  
     11 - 20   | **  
@@ -36,7 +36,7 @@ Design and implement an application that creates a histogram that allows you to 
 
 ## Activity 3 - BubbleSorter
 ### Problem Description
-Design and implement an application that fills an array with randome numbers and uses the Bubble Sort algorithm to sort the contents of the array.  
+Design and implement an application that fills an array with random numbers and uses the Bubble Sort algorithm to sort the contents of the array.  
 
 The details for this activity are in the guide below:
 
