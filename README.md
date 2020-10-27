@@ -1,5 +1,5 @@
 # Lab06 Guide
-## Getting Started## Getting Started
+## Getting Started
 Please watch the [Lab06 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyr--jgUd-naSUUj8NfihJ).  
 
 ### Code Style Requirements
