@@ -75,7 +75,7 @@ The details for this activity are in the guide below:
 
 ## Activity 5 - Gradebook Revisited
 ### Problem Description
-Redesign the Gradebook application created in Lab04 to use arrays instead of the ArrayList class.  The initial size of the gradebook internal array should start at 4 elements and should used the heuristic discussed in the lecture to grow the array by doubling its size each time it runs out of space.  A gradebook csv file containing 1000+ student records has been provided.
+Redesign the Gradebook application created in LabDL to use arrays instead of the ArrayList class.  The initial size of the gradebook internal array should start at 4 elements and should used the heuristic discussed in the lecture to grow the array by doubling its size each time it runs out of space.  A gradebook csv file containing 1000+ student records has been provided.
 
 ### Implementation Guide
 1. Copy Gradebook.java, Student.java, and gradebook.csv from Lab04 into the A5-Gradebook folder.
