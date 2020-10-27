@@ -1,6 +1,14 @@
 # Lab06 Guide
-## Getting Started
-Please watch the Lab Activity 6 Walkthough Video.  
+## Getting Started## Getting Started
+Please watch the [Lab06 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyr--jgUd-naSUUj8NfihJ).  
+
+### Code Style Requirements
+Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQBKkApnNAzzgwOSvRM03DmhYWx5yEfecT2WXfjI/edit?usp=sharing) and apply it in all lab activities and projects this semester. Coding Style will assessed as part of your lab and project grades.
+
+### Code Quality Requirements
+- Code must compile without warnings using openjdk11
+- Code must run without errors or warnings on safe-path and edge test cases
+- More to come as we learn about input validation and exception handling  
 ## Activity 1 - NumberCounter (pp7.1)
 ### Problem Description
 Design and implement an application that reads an arbitrary number of integers that are in the range 0 to 50 inclusive and counts how many occurrences of each are entered. After all input has been processed, print all of the values (with the number of occurrences) that were entered one or more times. User input must be validated and invalid input should be handled gracefully.
